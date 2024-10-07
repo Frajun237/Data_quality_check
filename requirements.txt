@@ -2,5 +2,5 @@ plotly
 openpyxl
 xlsxwriter
 streamlit_pandas_profiling
-ydata_profiling==4.10
+ydata_profiling
 great_expectations
